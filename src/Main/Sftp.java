@@ -27,7 +27,7 @@ public class Sftp {
     public static void main(String[] arg) {
 
         try {
-            System.out.println("OK");
+//            System.out.println("OK");
             JSch jsch = new JSch();
 
             String host = null;
